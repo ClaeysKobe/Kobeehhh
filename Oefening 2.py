@@ -1,0 +1,1 @@
+print(f"Labo Basic Programming,\n\tLabo week 1 \n\t\tKennismaking met \"Python\", \n\t\tWerken met variablen. \nLabo Basic Programming, \n\tLabo week 2")
